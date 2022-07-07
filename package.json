@@ -42,7 +42,7 @@
     "axios": "^0.24.0"
   },
   "dependencies": {
-    "openapi-client-axios": "^4.4.9"
+    "openapi-client-axios": "^5.1.2"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.1",
